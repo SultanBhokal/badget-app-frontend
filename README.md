@@ -30,10 +30,10 @@ cool animation to it.
 For state managment , i have used zustand a simple modern state managment for react. I have used native react hooks with the combination of 
 zustand state manager.
 
-i have deployed this site on netlify , link :- 
+i have deployed this site on netlify , link :- https://remarkable-sprite-74f33a.netlify.app
 
 for backend i have created api in node express and i have used jwt and cookie-parser to provide authantication.
 
-i have deployed backend on render.com . link : - 
+i have deployed backend on render.com . link : - https://budgetappapi.onrender.com
 
 
